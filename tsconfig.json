@@ -26,6 +26,8 @@
     "useUnknownInCatchVariables": false,
     "types": ["cypress", "cypress-wait-until"],
   },
+    
+    
   "exclude": [
     "dist",
     ".next",
